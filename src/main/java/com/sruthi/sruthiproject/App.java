@@ -22,7 +22,7 @@ public class App
 	}
     public static void main( String[] args )
     {
-    	String str = "ABC-karthi";
+    	String str = "ABC-Sruthi";
         permutation(str);
     		}
     	}
